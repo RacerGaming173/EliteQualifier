@@ -32,3 +32,4 @@ jobs:
 
       - name: Run tests
         run: python test.py
+# This is a cool program.
